@@ -2,6 +2,21 @@
 
 All notable changes to this project will be documented in this file.
 
+## [@videojs/core@10.7.0] - 2026-11-24
+
+### 🚀 Features
+- *(core)* Add auto orientation lock type ([#9806](https://github.com/videojs/video.js/pull/9806)) by [@Codinplus31](https://github.com/Codinplus31)
+
+### 🐛 Bug Fixes
+- *(site)* Resolve framework-agnostic docs links in the anchor check ([#9837](https://github.com/videojs/video.js/pull/9837)) by [@sampotts](https://github.com/sampotts)
+- *(skin)* Make the player focus ring visible on light pages ([#9838](https://github.com/videojs/video.js/pull/9838)) by [@sampotts](https://github.com/sampotts)
+
+### 📚 Documentation
+- *(site)* Add changelog prose for 10.6.0 ([#9829](https://github.com/videojs/video.js/pull/9829)) by [@github-actions[bot]](https://github.com/github-actions[bot])
+
+### New Contributors
+* @Codinplus31 made their first contribution in [#9806](https://github.com/videojs/video.js/pull/9806)
+
 ## [@videojs/core@10.6.0] - 2026-11-20
 
 ### 🚀 Features
@@ -2569,6 +2584,7 @@ All notable changes to this project will be documented in this file.
 * @decepulis made their first contribution in [#118](https://github.com/videojs/v10/pull/118)
 * @heff made their first contribution
 
+[@videojs/core@10.7.0]: https://github.com/videojs/video.js/compare/@videojs/core@10.6.0...@videojs/core@10.7.0
 [@videojs/core@10.6.0]: https://github.com/videojs/video.js/compare/@videojs/core@10.5.0...@videojs/core@10.6.0
 [@videojs/core@10.5.0]: https://github.com/videojs/video.js/compare/@videojs/core@10.4.0...@videojs/core@10.5.0
 [@videojs/core@10.4.0]: https://github.com/videojs/video.js/compare/@videojs/core@10.3.0...@videojs/core@10.4.0
