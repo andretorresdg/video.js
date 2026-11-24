@@ -1,5 +1,23 @@
 # Changelog
 
+## [10.7.0](https://github.com/videojs/video.js/compare/@videojs/skins@10.6.0...@videojs/skins@10.7.0) (2026-11-24)
+
+
+### Bug Fixes
+
+* **skin:** make the player focus ring visible on light pages ([#9838](https://github.com/videojs/video.js/issues/9838)) ([9ef57b5](https://github.com/videojs/video.js/commit/9ef57b53b378cdb00ac48d724f481a73d8671676))
+
+
+### Dependencies
+
+* The following workspace dependencies were updated
+  * devDependencies
+    * @videojs/core bumped to 10.7.0
+    * @videojs/element bumped to 10.7.0
+    * @videojs/icons bumped to 10.7.0
+    * @videojs/installation bumped to 10.7.0
+    * @videojs/utils bumped to 10.7.0
+
 ## [10.6.0](https://github.com/videojs/video.js/compare/@videojs/skins@10.5.0...@videojs/skins@10.6.0) (2026-11-20)
 
 

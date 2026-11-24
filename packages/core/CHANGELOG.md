@@ -1,5 +1,22 @@
 # Changelog
 
+## [10.7.0](https://github.com/videojs/video.js/compare/@videojs/core@10.6.0...@videojs/core@10.7.0) (2026-11-24)
+
+
+### Features
+
+* **core:** add auto orientation lock type ([#9806](https://github.com/videojs/video.js/issues/9806)) ([419fded](https://github.com/videojs/video.js/commit/419fded10de693b4c34bc75c819ee57febfd3ed6))
+
+
+### Dependencies
+
+* The following workspace dependencies were updated
+  * dependencies
+    * @videojs/media bumped to 10.7.0
+    * @videojs/store bumped to 10.7.0
+    * @videojs/utils bumped to 10.7.0
+    * video.js bumped to 10.7.0
+
 ## [10.6.0](https://github.com/videojs/video.js/compare/@videojs/core@10.5.0...@videojs/core@10.6.0) (2026-11-20)
 
 
